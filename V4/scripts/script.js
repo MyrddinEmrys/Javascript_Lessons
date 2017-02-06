@@ -29,6 +29,9 @@ function olaMundoClick(){
 
 //Manter a consistência, padronizar o código, se comecei de uma forma pra mudar um Style manter esta forma.
 
+
+
+
 var el02 = document.getElementById("btn02");
 
 el02.addEventListener("mouseover", olaMundoMouseOver);
