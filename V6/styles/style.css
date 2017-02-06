@@ -15,21 +15,16 @@ body {
     box-sizing: border-box;
 }
 
-.droptarget {
-    float: left;
-    width: 140px; 
-    height: 50px;
-    margin: 32px;
-    padding: 10px;
+#dt1,  #dt2, #dt3, #dt4, #dt5, #dt6, #dt7, #dt8, #dt9 {
     text-align: center;
-    border: 1px solid #aaaaaa;
-    /*margin-top: 55px;
-    margin-left: 43px;*/
-}
+    padding: 0 10px;
+ }
 
-#note{
-	top: 10px;
-	clear:both;
-	padding: 0 10px;
-	line-height: 20px;
+ p {
+    text-align: center;
+    padding: 0 10px;
+ }
+#target{
+    text-align: center;
+    padding: 0 10px;
 }

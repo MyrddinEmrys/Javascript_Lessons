@@ -1,3 +1,5 @@
+// http://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_ondrag_all
+
 /* Events fired on the drag target */
 
 document.addEventListener("dragstart", function(event) {
